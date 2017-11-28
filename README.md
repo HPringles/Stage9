@@ -4,6 +4,7 @@ This is the public issue tracker for Stage9, the Unreal 4 based replica of the E
 
 Before creating an issue please be sure to search through the existing ones to see if your problem has already been addressed or logged. When creating a new issue please use this template:
 
+[Bug Report Template](Stage9/Bug Report Template.md)
 
 
 Thanks, and enjoy the game.
